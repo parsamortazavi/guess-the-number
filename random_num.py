@@ -41,7 +41,7 @@ def answer(computer_number, guess):
         return "You should guess a smaller number."
     return "Wow... . You win."
 
-def finish(coputer_number, count):
+def finish(computer_number, count):
     '''
     THis function gets two parametres:
     first = int => random num gets from random madule
